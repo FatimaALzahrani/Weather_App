@@ -23,11 +23,18 @@
 ## ديمو
 https://github.com/FatimaALzahrani/Weather_App/assets/107775566/36b4ec8c-f6cf-4c9b-a3f0-83bfc215829d
 
-    <hr/>
+<hr/>
 
+## الأدوات+المكتبات
 
+<hr/>
 
+## API
 
+<hr/>
 
+## weatherapi
 
+<hr/>
 
+## الدوال
